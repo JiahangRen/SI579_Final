@@ -1,0 +1,17 @@
+.text {
+    font-family: sans-serif;
+    font-size: 11px;
+}
+
+.chart-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.bar {
+    fill: darkseagreen;
+}
+
+.bar:hover {
+    fill: orange;
+}
